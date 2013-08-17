@@ -67,7 +67,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="http://portfolio.andreyviana.com/assets/img/portfolio/prontosparacasar.png" alt="" height="200">
+          <img src="http://portfolio.andreyviana.com/assets/img/portfolio/prontosparacasar.jpg" alt="" height="200">
           <div class="container">
             <div class="carousel-caption">
               <h1>Prontos para Casar &middot; 2013 <a class="btn" href="http://prontosparacasar.com.br/" target="_blank">Visitar Site</a></h1>
