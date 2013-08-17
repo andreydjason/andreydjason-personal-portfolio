@@ -1,0 +1,11 @@
+[Dolphin]
+AdditionalInfoV2=CustomizedDetails,Details_Size,Details_Date,Details_Type
+GroupedSorting=true
+PreviewsShown=true
+SortOrder=1
+Sorting=2
+Timestamp=2013,4,30,3,3,39
+Version=2
+
+[Settings]
+ShowDotFiles=true
