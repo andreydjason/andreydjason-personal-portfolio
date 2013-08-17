@@ -75,7 +75,7 @@
             </div>
           </div>
         </div>
-        <div class="item active">
+        <div class="item">
           <img src="http://portfolio.andreyviana.com/assets/img/portfolio/ullis.png" alt="" height="200">
           <div class="container">
             <div class="carousel-caption">
